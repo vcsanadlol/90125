@@ -1,0 +1,141 @@
+#supson {
+    font-family: Planet Kosmos;
+}
+
+body {
+    background-color: rgb(228, 228, 228);
+}
+
+#table1 {
+    border: 3px solid rgb(207, 207, 207);
+    width: 720px; height: 350px;
+    background-color: rgb(207, 207, 207);
+    text-align: left;
+    border: solid 2px;
+    color:rgb(172, 172, 172);
+}
+
+#yes {
+    font-family: Planet Kosmos;
+}
+
+#YGP {
+    float: left;
+}
+
+#yes {
+    margin-left: 405px;
+    font-family: Planet Kosmos;
+    color:black;
+}
+
+#YGP {
+    border: solid 2px;
+    color:rgb(172, 172, 172);
+}
+
+#p1 {
+    text-align: justify;
+    width: 400px;
+    margin-left: 200px;
+    color:rgb(31, 31, 31);}
+
+#th1 {
+    width: 400px;}
+
+#yes1 {
+    float:left;
+}
+
+#hr1 {
+    color: rgb(172, 172, 172);
+    border: solid 2px;
+    width: 716px;
+}
+
+#table2 {
+    border: 3px solid rgb(207, 207, 207);
+    width: 720px; height: 350px;
+    background-color: rgb(207, 207, 207);
+    text-align: left;
+    border: solid 2px;
+    color:rgb(172, 172, 172);
+}
+
+#FZ {
+    font-family: Planet Kosmos;
+}
+
+#FZpic {
+    float: left;
+}
+
+#FZ {
+    margin-left: 310px;
+    font-family: Planet Kosmos;
+    color:black;
+}
+
+#FZpic {
+    border: solid 2px;
+    color:rgb(172, 172, 172);
+}
+
+#p2 {
+    text-align: justify;
+    width: 400px;
+    margin-left: 200px;
+    color:rgb(31, 31, 31);}
+
+#th2 {
+    width: 400px;}
+
+#hr2 {
+    color: rgb(172, 172, 172);
+    border: solid 2px;
+    width: 716px;
+}
+
+#table3 {
+    border: 3px solid rgb(207, 207, 207);
+    width: 720px; height: 350px;
+    background-color: rgb(207, 207, 207);
+    text-align: left;
+    border: solid 2px;
+    color:rgb(172, 172, 172);
+}
+
+#ELP {
+    font-family: Planet Kosmos;
+}
+
+#EL-P {
+    float: left;
+}
+
+#ELP {
+    margin-left: 170px;
+    font-family: Planet Kosmos;
+    color:black;
+    text-align: center;
+}
+
+#EL-P {
+    border: solid 2px;
+    color:rgb(172, 172, 172);
+}
+
+#p3 {
+    text-align: justify;
+    width: 400px;
+    margin-left: 200px;
+    color:rgb(31, 31, 31);}
+
+#th3 {
+    width: 400px;}
+
+#hr3 {
+    color: rgb(172, 172, 172);
+    border: solid 2px;
+    width: 716px;
+}

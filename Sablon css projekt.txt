@@ -1,0 +1,36 @@
+#table(x) {
+    border: 3px solid rgb(207, 207, 207);
+    width: 720px; height: 350px;
+    background-color: rgb(207, 207, 207);
+    text-align: left;
+    border: solid 2px;
+    color:rgb(172, 172, 172);}
+
+# {
+    font-family: Planet Kosmos;}
+
+# {
+    float: left;}
+
+# {
+    margin-left: 300px;
+    font-family: Planet Kosmos;
+    color:black;;}
+
+# {
+    border: solid 2px;
+    color:rgb(172, 172, 172);}
+
+#p(x) {
+    text-align: justify;
+    width: 400px;
+    margin-left: 200px;
+    color:rgb(31, 31, 31);}
+
+#th(x) {
+    width: 400px;}
+
+#hr(x) {
+    color: rgb(172, 172, 172);
+    border: solid 2px;
+    width: 716px;}
