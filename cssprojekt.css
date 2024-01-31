@@ -1,5 +1,6 @@
 #supson {
     font-family: Planet Kosmos;
+    src: url(planet-kosmos.ttf);
 }
 
 body {
@@ -17,6 +18,7 @@ body {
 
 #yes {
     font-family: Planet Kosmos;
+    src: url(planet-kosmos.ttf);
 }
 
 #YGP {
@@ -26,6 +28,7 @@ body {
 #yes {
     margin-left: 405px;
     font-family: Planet Kosmos;
+    src: url(planet-kosmos.ttf);
     color:black;
 }
 
@@ -35,6 +38,7 @@ body {
 }
 
 #p1 {
+    font-family: 'Times New Roman', Times, serif;
     text-align: justify;
     width: 400px;
     margin-left: 200px;
@@ -64,6 +68,7 @@ body {
 
 #FZ {
     font-family: Planet Kosmos;
+    src: url(planet-kosmos.ttf);
 }
 
 #FZpic {
@@ -73,6 +78,7 @@ body {
 #FZ {
     margin-left: 310px;
     font-family: Planet Kosmos;
+    src: url(planet-kosmos.ttf);
     color:black;
 }
 
@@ -82,6 +88,7 @@ body {
 }
 
 #p2 {
+    font-family: 'Times New Roman', Times, serif;
     text-align: justify;
     width: 400px;
     margin-left: 200px;
@@ -107,6 +114,7 @@ body {
 
 #ELP {
     font-family: Planet Kosmos;
+    src: url(planet-kosmos.ttf);
 }
 
 #EL-P {
@@ -116,6 +124,7 @@ body {
 #ELP {
     margin-left: 170px;
     font-family: Planet Kosmos;
+    src: url(planet-kosmos.ttf);
     color:black;
     text-align: center;
 }
@@ -126,6 +135,7 @@ body {
 }
 
 #p3 {
+    font-family: 'Times New Roman', Times, serif;
     text-align: justify;
     width: 400px;
     margin-left: 200px;
@@ -151,6 +161,7 @@ body {
 #PICSA {
     margin-left: 300px;
     font-family: Planet Kosmos;
+    src: url(planet-kosmos.ttf);
     color:black;}
 
 #PICSAimg {
@@ -159,6 +170,7 @@ body {
     float: left;}
 
 #p4 {
+    font-family: 'Times New Roman', Times, serif;
     text-align: justify;
     width: 400px;
     margin-left: 200px;
@@ -186,6 +198,7 @@ body {
     #Burzum {
         margin-left: 400px;
         font-family: Planet Kosmos;
+        src: url(planet-kosmos.ttf);
         color:black;}
     
     #VARG {
@@ -193,6 +206,7 @@ body {
         color:rgb(172, 172, 172);}
     
     #p5 {
+        font-family: 'Times New Roman', Times, serif;
         text-align: justify;
         width: 400px;
         margin-left: 200px;
@@ -205,3 +219,42 @@ body {
         color: rgb(172, 172, 172);
         border: solid 2px;
         width: 716px;}
+#table01 {
+    width: 1000px;
+    height: 100px;
+}
+
+#SomeGirls {
+    width: 100px; height: 100px; border: 2px solid black;
+}
+#UnderaFuneralMoon {
+    width: 100px; height: 100px; border: 2px solid black;
+}
+#PhysicalGraffiti {
+    width: 100px; height: 100px; border: 2px solid black;
+}
+#ElectricLadyland {
+    width: 100px; height: 100px; border: 2px solid black;
+}
+#Relayer {
+    width: 100px; height: 100px; border: 2px solid black;
+}
+#SoDP {
+    width: 100px; height: 100px; border: 2px solid black;
+}
+#Overkill {
+    width: 100px; height: 100px; border: 2px solid black;
+}
+#NLMD {
+    width: 100px; height: 100px; border: 2px solid black;
+}
+#Islands {
+    width: 100px; height: 100px; border: 2px solid black;
+}
+#CombatRock {
+    width: 100px; height: 100px; border: 2px solid black;
+}
+
+#link2 {
+    src: url(https://drive.google.com/file/d/14-eBrS0XX0aQTVVv_AL1dn0B5JIEkklB/view?usp=drive_link)
+}
